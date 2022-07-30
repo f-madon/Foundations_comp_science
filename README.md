@@ -1,2 +1,2 @@
 # Foundations_comp_science
-Questa repository contiene un progetto per il corso di Foundations of Computer Science dell'Università di Milano-Bicocca.
+This repository contains a project for the course of Foundations of Computer Science of the University of Milan-Bicocca. The project is about managing a dataframe with Python in Jupyter Notebook.
