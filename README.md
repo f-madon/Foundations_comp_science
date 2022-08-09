@@ -13,12 +13,12 @@
 <a name="overview"></a>
 ## &#9741; &nbsp; Overview
 
-This repository contains a project for the course of Foundations of Computer Science of the University of Milan-Bicocca. The project is about managing a dataframe with Python in Jupyter Notebook.
+This repository contains a project done by me for the course of Foundations of Computer Science of the University of Milan-Bicocca. The project is about managing a dataframe with Python in Jupyter Notebook.
 
 The tools used are: python, Jupyter Notebook.
 
 <a name="aboutus"></a>
-## &#9741; &nbsp; About us
+## &#9741; &nbsp; About me
 
 &#8860; &nbsp; **Federica Madon**
 
